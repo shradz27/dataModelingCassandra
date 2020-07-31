@@ -27,7 +27,6 @@ ETL copies data from the date-partitioned csv files to a single csv file **event
 2. **Project_1B_ Project_Template.ipynb** the etl and 3 specific queries.
 3. **event_datafile_new.csv** a smaller event data csv file that will be used to insert data into the Apache Cassandra tables.
 4. **images** a screenshot of what the denormalized data should appear like in the event_datafile_new.csv. 
-5. **README.md** current file, provides discussion on my project.
     
 ## Use
 
